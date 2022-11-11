@@ -22,11 +22,11 @@ This application is built using JavaScript using the Window Prompt, Window Alert
 
 ## If Characters are not between 8 and 128
 
-![Hover over images](../getapassword/Assets/Between%208-128%20Warning.png)
+![Warning must be Between 8 and 128](../getapassword/Assets/Between%208-128%20Warning.png)
 
 ## Password Reveals in the Box
 
-![Hover over images](../getapassword/Assets/Password%20Display.png)
+![Password Displays on Screen](../getapassword/Assets/Password%20Display.png)
 
 <!-- Created by/ Credits -->
 
